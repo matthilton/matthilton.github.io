@@ -1,8 +1,18 @@
 ---
-layout: default
-title: Matt Hilton
+layout: defaultCV
 ---
-<div class="blurb">
-<h1> Matt Hilton, PhD </h1>
-<p> This site is under construction please be patient... </p>
-</div><!-- /.blurb -->
+
+
+{% include career-profile.html %}
+
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
+
+{% include experiences.html %}
+
+{% include projects.html %}
+
+{% include publications.html %}
+
+{% include skills.html %}
