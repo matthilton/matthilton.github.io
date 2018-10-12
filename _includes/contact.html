@@ -60,6 +60,12 @@
       <a href="https://www.codewars.com/users/{{ sidebar.codewars }}/completed_solutions" target="_blank">{{ sidebar.codewars }}</a>
     </li>
     {% endif %}
+	
+	{% if sidebar.address1 %}
+	<li class="address1"><i class="fas fa-map-marked-alt"></i>
+		<a href="https://goo.gl/maps/yyBWSLS5tik" target="_blank">{{sidebar.address1}}</a>
+	</li>
+	{% endif %}
 
   </ul>
 </div><!--//contact-container-->
