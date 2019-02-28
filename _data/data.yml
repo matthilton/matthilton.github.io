@@ -107,9 +107,11 @@ talks:
         authors: Matt Hilton, Katherine E. Twomey &amp Gert Westermann
         conference: conference 1
         
-      - title: "Talk 2
-        authors: Matt Hilton &amp Gert Westermann
+      - title: "Talk 2" 
+        authors: Matt Hilton, Katherine E. Twomey &amp Gert Westermann
         conference: conference 2
+        
+
         
 
 
