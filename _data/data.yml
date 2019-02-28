@@ -98,11 +98,10 @@ chapters:
         authors: Katherine E. Twomey &amp Matt Hilton
         conference: In S. Hupp, J. D. Jewell, D. T. L. Shek, & Y. Leung (Eds.), Encyclopedia of Child and Adolescent Development (Vol. 7). Wiley. (In Press)
         
-
 talks:
-    title: conference talks
+    title: Conference Talks
 
-    papers:
+    infos:
     
       - title: "Talk 1" 
         authors: Matt Hilton, Katherine E. Twomey &amp Gert Westermann
