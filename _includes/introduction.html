@@ -10,13 +10,13 @@
     {{ introduction.title }}
   </h2>
 
-  {% for experience in introduction %}
+  {% for experience in introduction.infos %}
   <div class="item">
 
 
-    {% if introduction.details %}
+    {% if experience.details %}
     <div class="details">
-      {{ introduction.details | markdownify }}
+      {{ experience.details | markdownify }}
     </div><!--//details-->
     {% endif %}
 
