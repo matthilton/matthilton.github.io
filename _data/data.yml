@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Matt Hilton
     tagline: Postdoctoral Researcher
-    avatar: cvPic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: webPic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     currentDept: 
     
     # Sidebar links
