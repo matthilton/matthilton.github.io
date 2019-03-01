@@ -1,20 +1,31 @@
-{% assign introduction = site.data.data.introduction %}
-{% if introduction %}
-<section class="section introduction-section">
+{% assign experiences = site.data.data.experiences %}
+{% if experiences %}
+<section class="section experiences-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
     </span>
-    {{introduction.title}}
+    Experiences
   </h2>
 
-  {% for introduction in introduction %}
+  {% for experience in experiences %}
   <div class="item">
 
-    {% if introduction.details %}
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{ experience.role }}</h3>
+        <div class="time">{{ experience.time }}</div>
+      </div><!--//upper-row-->
+
+      <div class="company">{{ experience.company }}</div>
+
+    </div><!--//meta-->
+
+    {% if experience.details %}
     <div class="details">
-      {{ introduction.details | markdownify }}
+      {{ experience.details | markdownify }}
     </div><!--//details-->
     {% endif %}
 
@@ -23,4 +34,3 @@
 
 </section><!--//section-->
 {% endif %}
-
