@@ -17,6 +17,8 @@
     {% if experience.details %}
     <div class="details">
       {{ experience.details | markdownify }}
+      <br>
+      {{experience.researchstatement | markdownify }}
     </div><!--//details-->
     {% endif %}
 
