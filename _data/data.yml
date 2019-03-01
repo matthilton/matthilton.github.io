@@ -50,6 +50,11 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
 
       Second paragraph if required.
+      
+introduction:
+    title: About Me
+      - details: xxxx
+  
 
 education:
     - degree: PhD in Psychology
