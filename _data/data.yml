@@ -1,5 +1,5 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
@@ -11,33 +11,33 @@ sidebar:
     name: Matt Hilton
     tagline: Postdoctoral Researcher
     avatar: webPic2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    currentDept: 
-    
+    currentDept:
+
     # Sidebar links
     email: matt.hilton@uni-potsdam.de
     phone: 0331 977 2485
     website: matthilton.de #do not add http://
-    github: 
+    github:
     gitlab:
     bitbucket:
     twitter: '@matthilton90'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    address1: Karl-Liebknecht Str. 24-25
-    address2: 14476 Potsdam
-    address3: Germany
-    
+    address1: University of Potsdam
+    address2:
+    address3:
 
 
-        
+
+
     interests:
-      - item: 
+      - item:
         link:
 
-      - item: 
+      - item:
         link:
 
-      - item: 
+      - item:
         link:
 
 career-profile:
@@ -50,28 +50,28 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
 
       Second paragraph if required.
-      
+
 introduction:
     title: About Me
-    
+
     infos:
-    
+
       - details: Hello! I'm a developmental psychologist currently working as a postdoc at the University of Potsdam in Germany. I run research projects with infants and children using both eye-tracking and EEG methodologies, and below you can find more details about this work and resulting publications. When not at work googling matlab error messages, I am usually wandering aimlessly around Berlin listening to a variety of <a href="https://itunes.apple.com/us/podcast/fortunately-with-fi-and-jane/id1220808096?mt=2" target="_blank"> quality educational podcasts</a>.
-        
+
 researchstatement:
     title: Research Statement
-    
+
     infos:
-        
+
        - details: "I'm fascinated by early language development. While we often (quite rightly!) marvel at the speed with which children learn language, I find it equally fascinating how variable language development can be: Some toddlers are absolute chatterboxes, while others can be quiet as a mouse. So how can we explain the mechanisms underlying language development of both groups of children (chatterboxes and quiet mice)? To better understand this question, I'm looking at how shyness affects young children's learning of word meanings. My work also aims to better understand the mechanisms underlying early language processing (e.g. speech segmentation), and how differences in development of these processes can explain individual differences in language acquisition. "
-  
+
 
 education:
     - degree: PhD in Psychology
       university: Lancaster University
       time: 2012 - 2016
       details: |
-        Title of thesis: "Temperament and early word learning: The effect of shyness on referent selection and retention" 
+        Title of thesis: "Temperament and early word learning: The effect of shyness on referent selection and retention"
 
           - Supervised by Gert Westermann and Katherine Twomey
           - Examined by Melissa Allen and Larissa Samuelson
@@ -79,17 +79,17 @@ education:
     - degree: BSc in Psychology
       university: University of Sussex
       time: 2009 - 2012
-      details: 
-      
+      details:
+
 experiences:
     title: Academic Positions
-    
+
     infos:
-      - role: Postdoctoral Researcher 
+      - role: Postdoctoral Researcher
         time: 2016 - Present
         company: Department of Developmental Psychology, University of Potsdam
         details: |
-          I work on two projects of the DFG-funded research unit "Crossing the Borders." The main aim of the research unit is to examine the shared domain-general processes that drive cognitive development. One project examines parallels in segmentation of speech and action. I work on this project alongside Birgit Elsner, Isabell Wartenburger and Romy Räling. We want to examine whether the processes that underlie segmentation of speech can also support segmentation of action sequences. The second project is led by Barbara Höhle. This project examines how domain-general developmental processes (e.g. inhibitory control) can explain language and social development. To do this, we created a battery of eye-tracking tasks that aims to measure these processes throughout development. 
+          I work on two projects of the DFG-funded research unit "Crossing the Borders." The main aim of the research unit is to examine the shared domain-general processes that drive cognitive development. One project examines parallels in segmentation of speech and action. I work on this project alongside Birgit Elsner, Isabell Wartenburger and Romy Räling. We want to examine whether the processes that underlie segmentation of speech can also support segmentation of action sequences. The second project is led by Barbara Höhle. This project examines how domain-general developmental processes (e.g. inhibitory control) can explain language and social development. To do this, we created a battery of eye-tracking tasks that aims to measure these processes throughout development.
 
 projects:
 
@@ -98,48 +98,48 @@ publications:
     title: Publications
 
     papers:
-    
+
       - title: <a href="papers/Hilton_etal2019.pdf" target="_blank"> Parallels in processing boundary cues in speech and action.</a>
         authors: Matt Hilton, Romy Räling, Isabell Wartenburger &amp Birgit Elsner
         conference: Frontiers in Psychology, 10, 1566. (2019)
-    
+
       - title: <a href="papers/HiltonTwomeyWestermann2019.pdf" target="_blank"> Taking their eye off the ball<span>&#58;</span> How shyness affects children's attention during word learning.</a>
         authors: Matt Hilton, Katherine E. Twomey &amp Gert Westermann
-        conference: Journal of Experimental Child Psychology, 183, 134 - 145. (2019) 
-        
+        conference: Journal of Experimental Child Psychology, 183, 134 - 145. (2019)
+
       - title: <a href="papers/HiltonWestermann2017.pdf" target="_blank"> The effect of shyness on children's formation and retention of novel word-object mappings.</a>
         authors: Matt Hilton &amp Gert Westermann
         conference: Journal of Child Language, 44, 1394 - 1412. (2017)
-        
-        
-       
+
+
+
 chapters:
     title: Book Chapters
 
     chapts:
-    
-      - title: "Word Learning" 
+
+      - title: "Word Learning"
         authors: Katherine E. Twomey &amp Matt Hilton
         conference: In S. Hupp, J. D. Jewell, D. T. L. Shek, & Y. Leung (Eds.), Encyclopedia of Child and Adolescent Development (Vol. 7). Wiley. (In Press)
-        
+
 talks:
     title: Conference Talks
 
     infos:
-    
-      - title: "Using eye-tracking to measure individual differences in cognitive functions during infancy and early childhood" 
+
+      - title: "Using eye-tracking to measure individual differences in cognitive functions during infancy and early childhood"
         authors: Matt Hilton, Jie Ren, Silvana Poltrock &amp Barbara Höhle
         conference: 3rd Lancaster Conference on Infant and Early Child Development, Lancaster, UK. 2018.
-        
-      - title: "The case of the frightful fliwa: How emotional cues during labeling affect children's word learning" 
+
+      - title: "The case of the frightful fliwa: How emotional cues during labeling affect children's word learning"
         authors: Matt Hilton, Julia Brase, Gert Westermann &amp Nivedita Mani
         conference: 2nd Lancaster Conference on Infant and Early Child Development, Lancaster, UK. 2017.
-        
-      - title: "FaceTime: Shy children’s increased attention to faces and its effect on word learning" 
+
+      - title: "FaceTime: Shy children’s increased attention to faces and its effect on word learning"
         authors: Matt Hilton, Katherine E. Twomey &amp Gert Westermann
         conference: 1st Lancaster Conference on Infant and Early Child Development, Lancaster, UK. 2016.
- 
-      - title: "Shyness can affect children's performance during fast-mapping tasks" 
+
+      - title: "Shyness can affect children's performance during fast-mapping tasks"
         authors: Matt Hilton &amp Gert Westermann
         conference: Postgraduate and Academic Researchers in Linguistics at York conference, York, UK. 2014.
 
@@ -148,4 +148,5 @@ skills:
 
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>.</br>
+    <a href="impressum.html" target="_blank" rel="nofollow"> Impressum</a>
