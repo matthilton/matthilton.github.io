@@ -232,28 +232,50 @@ p {
             margin-bottom: 15px;
         }
     }
-}
-
-
-.skillset {
-    .item {
-        margin-bottom: 15px;
-        overflow: hidden;
-    }
     .level-title {
-        font-size: 14px;
+        font-size: 15px;
+        margin-top: 12px;
+        margin-bottom: 0px;
+    }
+    .level-info {
+       
+        color: $text-grey;
         margin-top: 0;
-        margin-bottom: 12px;
+        margin-bottom: 0px;
     }
-    .level-bar {
-        height: 12px;
-        background: $smoky-white;
-    }
-    .level-bar-inner {
-        height: 12px;
-        background: lighten($theme-color, 15%);
+    .level-desc {
+        
+        margin-top: 0;
+        margin-bottom: 0px;
     }
 }
+
+
+// .skillset {
+
+//     .item {
+//         margin-bottom: 15px;
+//         overflow: hidden;
+//     }
+//     .level-title {
+//         font-size: 14px;
+//         margin-top: 0;
+//         margin-bottom: 12px;
+//     }
+//     .level-info {
+//         font-size: 12px;
+//         margin-top: 0;
+//         margin-bottom: 12px;
+//     }
+//     .level-bar {
+//         height: 12px;
+//         background: $smoky-white;
+//     }
+//     .level-bar-inner {
+//         height: 12px;
+//         background: lighten($theme-color, 15%);
+//     }
+// }
 
 
 

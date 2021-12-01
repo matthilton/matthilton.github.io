@@ -4,28 +4,32 @@
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
+      
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-chalkboard-teacher fa-stack-1x fa-inverse"></i>
     </span>
     {{ skills.title }}
   </h2>
 
-  <div class="skillset">
+  <!-- <div class="skillset"> -->
 
     {% for skill in skills.toolset %}
     <div class="item">
 
-      <h3 class="level-title">{{ skill.name }}</h3>
-
-      <div class="level-bar">
+      <div class="level-title">{{ skill.name }}</div>
+      <div class="level-info">{{ skill.info }}</div>
+      {% if skill.description %}
+      <div class="level-desc">{{ skill.description }}</div>
+      {% endif %}
+      <!-- <div class="level-bar">
         <div class="level-bar-inner" data-level="{{ skill.level }}">
         </div>
-      </div><!--//level-bar-->
+      </div>//level-bar -->
 
     </div><!--//item-->
     {% endfor %}
 
-  </div>
+  <!-- </div> -->
 
 </section><!--//skills-section-->
 {% endif %}
