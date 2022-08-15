@@ -56,7 +56,7 @@ introduction:
 
     infos:
 
-      - details: Hello! I'm a developmental psychologist currently working as a postdoc at the University of Potsdam in Germany. I run research projects with infants and children using both eye-tracking and EEG methodologies, and below you can find more details about this work and resulting publications. When not at work googling matlab error messages, I am usually wandering aimlessly around Berlin listening to a variety of <a href="https://itunes.apple.com/us/podcast/fortunately-with-fi-and-jane/id1220808096?mt=2" target="_blank"> quality educational podcasts</a>.
+      - details: Hello! I'm a developmental psychologist currently working as a postdoc at the University of Potsdam in Germany. I run research projects with infants and children using both eye-tracking and EEG methodologies, and below you can find more details about this work and resulting publications. When not at work googling matlab error messages, I am usually wandering aimlessly around Aachen listening to a variety of <a href="https://itunes.apple.com/us/podcast/fortunately-with-fi-and-jane/id1220808096?mt=2" target="_blank"> quality educational podcasts</a>.
 
 researchstatement:
     title: Research Statement
@@ -97,21 +97,31 @@ projects:
 publications:
     title: Publications
 
+    intro: click on title for pdf
+
     papers:
+      - title: <a href="papers/HiltonEtAl2022.pdf" target="_blank"> Pre-boundary lengthening and pause signal boundaries in action sequences. </a>
+        authors: <b>Matt Hilton</b>, Isabell Wartenburger, Julius Verrel &amp Birgit Elsner
+        conference: Proceedings of the Annual Meeting of the Cognitive Science Society, 44, 1420-1426. (2022)
+
+      - title: <a href="papers/TolksdorfEtAl2022.pdf" target="_blank"> Diversity in children’s temperament<span>&#58;</span> Perspectives on shyness in interaction. </a>
+        authors: Nils F. Tolksdorf, Franziska E. Viertel, <b>Matt Hilton</b>, Kristie L. Poole &amp Sarah C. Kucker
+        conference: Proceedings of the Annual Meeting of the Cognitive Science Society, 44, 22-23. (2022)
+
       - title: <a href="papers/HiltonEtAl2021_AcceptedManuscript.pdf" target="_blank"> Kinematic boundary cues modulate 12-month-old infants' segmentation of action sequences<span>&#58;</span> An ERP study. </a>
-        authors: Matt Hilton, Isabell Wartenburger &amp Birgit Elsner
+        authors: <b>Matt Hilton</b>, Isabell Wartenburger &amp Birgit Elsner
         conference: Neuropsychologia, 159, 107916. (2021)
 
       - title: <a href="papers/Hilton_etal2019.pdf" target="_blank"> Parallels in processing boundary cues in speech and action.</a>
-        authors: Matt Hilton, Romy Räling, Isabell Wartenburger &amp Birgit Elsner
+        authors: <b>Matt Hilton</b>, Romy Räling, Isabell Wartenburger &amp Birgit Elsner
         conference: Frontiers in Psychology, 10, 1566. (2019)
 
       - title: <a href="papers/HiltonTwomeyWestermann2019.pdf" target="_blank"> Taking their eye off the ball<span>&#58;</span> How shyness affects children's attention during word learning.</a>
-        authors: Matt Hilton, Katherine E. Twomey &amp Gert Westermann
+        authors: <b>Matt Hilton</b>, Katherine E. Twomey &amp Gert Westermann
         conference: Journal of Experimental Child Psychology, 183, 134 - 145. (2019)
 
       - title: <a href="papers/HiltonWestermann2017.pdf" target="_blank"> The effect of shyness on children's formation and retention of novel word-object mappings.</a>
-        authors: Matt Hilton &amp Gert Westermann
+        authors: <b>Matt Hilton</b> &amp Gert Westermann
         conference: Journal of Child Language, 44, 1394 - 1412. (2017)
 
 
@@ -121,9 +131,9 @@ chapters:
 
     chapts:
 
-      - title: "Word Learning"
-        authors: Katherine E. Twomey &amp Matt Hilton
-        conference: In S. Hupp, J. D. Jewell, D. T. L. Shek, & Y. Leung (Eds.), Encyclopedia of Child and Adolescent Development (Vol. 7). Wiley. (In Press)
+      - title: <a href="https://doi.org/10.1002/9781119171492.wecad126" target="_blank">Word Learning.</a>
+        authors: Katherine E. Twomey &amp <b>Matt Hilton</b>
+        conference: In S. Hupp, J. D. Jewell, D. T. L. Shek, & Y. Leung (Eds.), Encyclopedia of Child and Adolescent Development (Vol. 7). Wiley. (2019)
 
 talks:
     title: Conference Talks
@@ -131,19 +141,19 @@ talks:
     infos:
 
       - title: "Using eye-tracking to measure individual differences in cognitive functions during infancy and early childhood"
-        authors: Matt Hilton, Jie Ren, Silvana Poltrock &amp Barbara Höhle
+        authors: <b>Matt Hilton</b>, Jie Ren, Silvana Poltrock &amp Barbara Höhle
         conference: 3rd Lancaster Conference on Infant and Early Child Development, Lancaster, UK. 2018.
 
       - title: "The case of the frightful fliwa: How emotional cues during labeling affect children's word learning"
-        authors: Matt Hilton, Julia Brase, Gert Westermann &amp Nivedita Mani
+        authors: <b>Matt Hilton</b>, Julia Brase, Gert Westermann &amp Nivedita Mani
         conference: 2nd Lancaster Conference on Infant and Early Child Development, Lancaster, UK. 2017.
 
       - title: "FaceTime: Shy children’s increased attention to faces and its effect on word learning"
-        authors: Matt Hilton, Katherine E. Twomey &amp Gert Westermann
+        authors: <b>Matt Hilton</b>, Katherine E. Twomey &amp Gert Westermann
         conference: 1st Lancaster Conference on Infant and Early Child Development, Lancaster, UK. 2016.
 
       - title: "Shyness can affect children's performance during fast-mapping tasks"
-        authors: Matt Hilton &amp Gert Westermann
+        authors: <b>Matt Hilton</b> &amp Gert Westermann
         conference: Postgraduate and Academic Researchers in Linguistics at York conference, York, UK. 2014.
 
 
