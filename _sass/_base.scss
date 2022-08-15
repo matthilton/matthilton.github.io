@@ -226,7 +226,10 @@ p {
     }
     .publications-section {
         .intro {
-            margin-bottom: 30px;
+            margin-bottom: 10px;
+            color: $text-grey;
+            font-size: 8pt;
+            margin-left: 28pt;
         }
         .item {
             margin-bottom: 15px;
