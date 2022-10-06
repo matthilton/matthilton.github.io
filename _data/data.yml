@@ -9,21 +9,21 @@ sidebar:
 
     # Profile information
     name: Matt Hilton
-    tagline: Postdoctoral Researcher
+    tagline: Lecturer
     avatar: profilePic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     currentDept:
 
     # Sidebar links
-    email: matt.hilton@uni-potsdam.de
-    phone: 0331 977 2485
+    email: firstname.lastname
+    phone: 
     website: matthilton.de #do not add http://
-    github:
+    email2: '@maastrichtuniversity.nl'
     gitlab:
     bitbucket:
     twitter: '@matthilton90'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    address1: University of Potsdam
+    address1: Maastricht University
     address2:
     address3:
 
@@ -56,7 +56,7 @@ introduction:
 
     infos:
 
-      - details: Hello! I'm a developmental psychologist currently working as a postdoc at the University of Potsdam in Germany. I run research projects with infants and children using both eye-tracking and EEG methodologies, and below you can find more details about this work and resulting publications. When not at work googling matlab error messages, I am usually wandering aimlessly around Aachen listening to a variety of <a href="https://itunes.apple.com/us/podcast/fortunately-with-fi-and-jane/id1220808096?mt=2" target="_blank"> quality educational podcasts</a>.
+      - details: Hello! I'm a developmental psychologist currently working as a lecturer at Maastricht University in the Netherlands. I run research projects with infants and adults using both eye-tracking and EEG methodologies, and below you can find more details about this work and resulting publications. When not working hard, I can usually be found wandering aimlessly around Aachen and the local area.
 
 researchstatement:
     title: Research Statement
@@ -85,11 +85,15 @@ experiences:
     title: Academic Positions
 
     infos:
+      - role: Lecturer
+        time: 2022 - present
+        company: Department of Cognitive Neuroscience, Maastricht University
+
       - role: Postdoctoral Researcher
-        time: 2016 - Present
+        time: 2016 - 2022
         company: Department of Developmental Psychology, University of Potsdam
         details: |
-          I work on two projects of the DFG-funded research unit "Crossing the Borders." The main aim of the research unit is to examine the shared domain-general processes that drive cognitive development. One project examines parallels in segmentation of speech and action. I work on this project alongside Birgit Elsner, Isabell Wartenburger and Romy Räling. We want to examine whether the processes that underlie segmentation of speech can also support segmentation of action sequences. The second project is led by Barbara Höhle. This project examines how domain-general developmental processes (e.g. inhibitory control) can explain language and social development. To do this, we created a battery of eye-tracking tasks that aims to measure these processes throughout development.
+         DFG-funded research unit "Crossing the Borders." 
 
 projects:
 
