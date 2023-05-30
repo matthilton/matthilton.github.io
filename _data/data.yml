@@ -101,12 +101,12 @@ projects:
 publications:
     title: Publications
 
-    intro: click on title for pdf
+    intro: click on title for pdf where available
 
     papers:
-      - title: Face time<span>&#58;</span> Effects of shyness and attention to faces on early word learning
+      - title: Face time<span>&#58;</span> Effects of shyness and attention to faces on early word learning.
         authors: <b>Matt Hilton</b>, Katherine E. Twomey &amp Gert Westermann
-        conference: Language Development Research (accepted)
+        conference: Language Development Research. (in press)
 
       - title: <a href="papers/HiltonEtAl2022.pdf" target="_blank"> Pre-boundary lengthening and pause signal boundaries in action sequences. </a>
         authors: <b>Matt Hilton</b>, Isabell Wartenburger, Julius Verrel &amp Birgit Elsner
