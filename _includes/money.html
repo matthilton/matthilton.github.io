@@ -1,0 +1,34 @@
+{% assign money = site.data.data.money %}
+{% if money %}
+<section class="section publications-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-money-bill-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ money.title }}
+  </h2>
+
+  <!-- <div class="skillset"> -->
+
+    {% for skill in money.toolset %}
+    <div class="item">
+
+      <div class="level-title">{{ skill.name }}</div>
+      <div class="level-info">{{ skill.info }}</div>
+      {% if skill.description %}
+      <div class="level-desc">{{ skill.description }}</div>
+      {% endif %}
+      <!-- <div class="level-bar">
+        <div class="level-bar-inner" data-level="{{ skill.level }}">
+        </div>
+      </div>//level-bar -->
+
+    </div><!--//item-->
+    {% endfor %}
+
+  <!-- </div> -->
+
+</section><!--//skills-section-->
+{% endif %}

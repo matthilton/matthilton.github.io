@@ -16,7 +16,12 @@
     {% endif %}
 	
 	{% if sidebar.currentDept %}
-	<h3 class="currentDept">{{ sidebar.currentDept }}</h3>
+	<h3 class="tagline">{{ sidebar.currentDept }}</h3>
+	{% endif %}
+	
+	
+	{% if sidebar.currentUni %}
+	<h3 class="tagline">{{ sidebar.currentUni }}</h3>
 	{% endif %}
 
   </div><!--//profile-container-->
