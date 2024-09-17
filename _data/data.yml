@@ -106,7 +106,11 @@ publications:
     intro: click on title for pdf
 
     papers:
-      - title: <a href="papers/ldr-652-hilton.pdf" target="_blank"> Face time<span>&#58;</span> Effects of shyness and attention to faces on early word learning. </a>
+      - title: <a href="papers/HiltonEtAl2024.pdf" target="_blank"> Caregivers as experimenters<span>&#58;</span> Reducing unfamiliarity helps shy children learn words. </a>
+        authors: <b>Matt Hilton</b>, Katherine E. Twomey &amp Gert Westermann
+        conference: Infancy, 1-17. (2024)
+
+      - title: <a href="papers/HiltonEtAl2023.pdf" target="_blank"> Face time<span>&#58;</span> Effects of shyness and attention to faces on early word learning. </a>
         authors: <b>Matt Hilton</b>, Katherine E. Twomey &amp Gert Westermann
         conference: Language Development Research, 3(1), 156-181. (2023)
 
